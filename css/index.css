@@ -1,0 +1,39 @@
+body{
+    background-color:#f1f7ff;
+}
+section{
+    width: 80%;
+    height: 80vh;
+    background-color: #eadaffd6;
+    margin-left: 10%;
+    margin-top: 10vh;
+    border-radius: 10%;
+    border-color: #8d36ffd6;
+    box-shadow: 0 0 5em #91c1ffd6;
+}
+section img{
+    width: 25%;
+    margin-left: 37%;
+    margin-top: 4%;
+    border-radius: 40%;
+    box-shadow: 0 0 4em #ffb8cd;
+}
+section p{
+    text-align: center;
+    color: #fefefe;
+    font-size: 21px;
+    line-height: 1.6em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section h1{
+    text-align: center;
+    color: #ffffff;
+    margin-top: 3%;
+    font-size: 27px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section h2{
+text-align: center;
+color: #ffffff;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
